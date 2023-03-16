@@ -1,0 +1,30 @@
+How to Run the Input Generator :
+
+java Driver
+
+outputtest.txt is the read file. This code has been commented out in the Driver.java
+
+
+
+What does the output/program do -
+----Please select type of testing:--------
+1. Boundary Value Analysis
+2. Robustness
+3. Quit
+1
+--------Please type the number of variables-------
+
+2
+Enter the range of the variables
+[5, 15)
+[23, 69]
+-------------BVA Inputs--------------------:
+5 	46
+6 	46
+13 	46
+14 	46
+9	23
+9	24
+9	68
+9	69
+9 	46
